@@ -1,0 +1,5 @@
+*.swp
+*.ssh
+*.Spotlight-*
+*.fseventsd
+._.Trashes
