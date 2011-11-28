@@ -1,1 +1,1 @@
-sudo apt-get install git giggle gitk git-cola tree
+sudo apt-get install git giggle gitk git-cola tree libnotify-bin
